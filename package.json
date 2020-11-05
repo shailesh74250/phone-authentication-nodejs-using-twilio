@@ -1,0 +1,24 @@
+{
+  "name": "phone-authentication-nodejs-using-twilio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh74250/phone-authentication-nodejs-using-twilio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh74250/phone-authentication-nodejs-using-twilio/issues"
+  },
+  "homepage": "https://github.com/shailesh74250/phone-authentication-nodejs-using-twilio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.50.0"
+  }
+}
